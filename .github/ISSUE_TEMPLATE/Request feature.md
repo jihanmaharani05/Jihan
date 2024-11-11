@@ -17,10 +17,20 @@
 **Given** []
 **When** []
 **Then**  [].
+
+- [ ] <ins>**Negative Case 1:**</ins> []
+**Given** []
+**When** []
+**Then** []
 - [ ] <ins>**Scenario 2:** []</ins>
 **Given** []
 **When** []
 **Then** [].
+
+- [ ] <ins>**Negative Case 2:**</ins> []
+**Given** []
+**When** []
+**Then** []
 
 
 **User Interface**:
